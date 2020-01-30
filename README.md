@@ -1,6 +1,6 @@
 # Optimization in Machine Learning
 
-This is the github page for the Course 6301: Optimization in Machine Learning offered at UT Dallas.
+This is the github page for the Course 6301.020: Optimization in Machine Learning offered at UT Dallas.
 
 ## Course Logistics
 Course website: https://sites.google.com/view/cs-6301-optml/home
