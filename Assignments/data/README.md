@@ -1,6 +1,6 @@
 # Data for Assignment 2
 
-Reading the Features and Label File:
+Loading the Features and Label Data:
 
 *Python Code (make sure you setup scipy)*
 
