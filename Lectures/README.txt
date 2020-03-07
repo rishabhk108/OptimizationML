@@ -10,5 +10,6 @@ Lecture 9: Proximal and Projected Gradient Descent
 Lecture 10: Project Proposals by Students (No Lecture)
 Lecture 11 and 12: Newton, Quasi Newton and Second Order Methods
 Lecture 13: Conditional Gradient Descent
+Lecture Extra: Practical Implementational Aspects of Gradient Descent and Family (For Assignment 2)
 Lecture 14: Coordinate Gradient Descent
 Lecture 15: Stochastic Gradient Descent and Family
