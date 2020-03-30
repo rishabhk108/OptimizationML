@@ -13,3 +13,10 @@ Lecture 13: Conditional Gradient Descent
 Lecture Extra: Practical Implementational Aspects of Gradient Descent and Family (For Assignment 2)
 Lecture 14: Coordinate Gradient Descent
 Lecture 15: Stochastic Gradient Descent and Family
+Lecture 16: SGD and Adaptive Gradient Methods
+Lecture 17: Non Convex Optimization
+Lecture 18: Duality
+Lecture 19: Introduction to Submodular Optimization: Definitions and Examples
+Lecture 20: Submodular Optimization Problems and Applications
+Lecture 21: Submodular Minimization
+Lecture 22: Submodular Maximization
