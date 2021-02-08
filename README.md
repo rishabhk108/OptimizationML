@@ -19,3 +19,6 @@ See https://sites.google.com/view/cs-6301-optml/home for more details.
 
 ## Purpose of this GitHub Repository
 All assignments, solutions, lecture notes and project submissions/code will be posted here.
+
+## Github Link to all Demos
+https://github.com/rishabhk108/OptimizationDemos
